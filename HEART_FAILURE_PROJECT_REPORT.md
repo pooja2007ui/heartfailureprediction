@@ -4,7 +4,7 @@
 **Submitted to**  
 ### **JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY ANANTAPUR, ANANTHAPURAMU**  
 *In partial fulfillment of the requirements for the successful completion of the course*  
-**23CSD108 – Big Data Analysis & Machine Learning**
+**23CSD107 – Machine Learning**
 
 ---
 
@@ -15,13 +15,13 @@
 ---
 
 **Submitted By:**  
-### **K LAKSHMI PRASANNA**  
-### **(Roll No: 24691A32I9)**
+### **Poojitha Talari**  
+### **(Roll No: 24691A32I6)**
 
 ---
 
 **Under the Guidance of:**  
-**Mr. M. Balaji Prashanth**  
+**Mrs.Anuradha Prudhivi**  
 *Assistant Professor*  
 *Department of Computer Science & Engineering - Data Science*
 
@@ -61,8 +61,8 @@
 This is to certify that the project work entitled **"Heart Failure Prediction Using Machine Learning"** is a bonafide work carried out by:
 
 <div align="center">
-  <h3><b>K LAKSHMI PRASANNA</b></h3>
-  <h4><b>(Reg. No: 24691A32I9)</b></h4>
+  <h3><b>Poojitha Talari</b></h3>
+  <h4><b>(Reg. No: 24691A32I6)</b></h4>
 </div>
 
 Submitted in partial fulfillment of the requirements for the award of the degree **Bachelor of Technology** in the stream of **Computer Science & Engineering (Data Science)** in **Madanapalle Institute of Technology & Science**, Madanapalle, affiliated to **Jawaharlal Nehru Technological University Anantapur, Ananthapuramu** during the academic year **2026–2027**.
@@ -74,7 +74,7 @@ Submitted in partial fulfillment of the requirements for the award of the degree
     <td align="left" style="border:none; width:50%;">
       <b>Internal Guide:</b><br><br><br>
       ____________________________<br>
-      <b>Mr. M. Balaji Prashanth</b><br>
+      <b>Mrs.Anuradha Prudhivi</b><br>
       Assistant Professor<br>
       Dept. of CSE - Data Science<br>
       Madanapalle Institute of Technology & Science
@@ -109,7 +109,7 @@ Submitted in partial fulfillment of the requirements for the award of the degree
 
 ## **DECLARATION**
 
-I, **K LAKSHMI PRASANNA**, student of Bachelor of Technology in **Computer Science & Engineering - Data Science**, bearing Roll Number **24691A32I9**, hereby declare that the project entitled **"Heart Failure Prediction Using Machine Learning"** submitted to the Department of Computer Science & Engineering - Data Science, **Madanapalle Institute of Technology & Science**, affiliated to **JNTUA, Ananthapuramu**, in partial fulfillment of the course curriculum for **23CSD108 – Big Data Analysis & Machine Learning**, is a record of original work carried out by me.
+I, **Poojitha Talari**, student of Bachelor of Technology in **Computer Science & Engineering - Data Science**, bearing Roll Number **24691A32I6**, hereby declare that the project entitled **"Heart Failure Prediction Using Machine Learning"** submitted to the Department of Computer Science & Engineering - Data Science, **Madanapalle Institute of Technology & Science**, affiliated to **JNTUA, Ananthapuramu**, in partial fulfillment of the course curriculum for **23CSD108 – Big Data Analysis & Machine Learning**, is a record of original work carried out by me.
 
 I confirm that this project report has not been submitted previously in part or in full to any other University or Institution for the award of any degree, diploma, or fellowship.
 
@@ -123,8 +123,8 @@ I confirm that this project report has not been submitted previously in part or 
     </td>
     <td align="right" style="border:none;">
       ____________________________<br>
-      <b>K LAKSHMI PRASANNA</b><br>
-      (Roll No: 24691A32I9)
+      <b>Poojitha Talari</b><br>
+      (Roll No: 24691A32I6)
     </td>
   </tr>
 </table>
@@ -143,8 +143,8 @@ I am especially indebted to my project guide and course faculty, **Mr. M. Balaji
 I also extend my gratitude to all faculty members, technical laboratory assistants of the Department of CSE - Data Science, and my family members for their continuous support and motivation.
 
 <br><br>
-**K LAKSHMI PRASANNA**  
-(Roll No: 24691A32I9)
+**Poojitha Talari**  
+(Roll No: 24691A32I6)
 
 ---
 \pagebreak
