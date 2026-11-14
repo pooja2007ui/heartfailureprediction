@@ -5,12 +5,12 @@ An end-to-end clinical Machine Learning system and predictive healthcare analyti
 ---
 
 ## 🏛️ Academic & Institutional Details
-- **Student Name:** **K LAKSHMI PRASANNA**
-- **Roll Number:** **24691A32I9**
+- **Student Name:** **Poojitha Talari**
+- **Roll Number:** **24691A32I6**
 - **Degree & Branch:** B.Tech in Computer Science & Engineering - Data Science
-- **Course:** **23CSD108 – Big Data Analysis & Machine Learning**
+- **Course:** **23CSD107 – Machine Learning**
 - **Institution:** Madanapalle Institute of Technology & Science (MITS / UGC - Autonomous), affiliated to JNTUA
-- **Internal Guide:** **Mr. M. Balaji Prashanth**, Assistant Professor, Dept. of CSE - Data Science
+- **Internal Guide:** **Mrs.Anuradha Prudhivi**, Assistant Professor, Dept. of CSE - Data Science
 
 ---
 
